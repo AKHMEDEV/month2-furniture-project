@@ -1,0 +1,12 @@
+export { default as HomePage } from "./Home";
+export { default as NotFoundPage } from "./404";
+export { default as PaymentPage } from "./ShippingAndPayment";
+export { default as ContactPsage } from "./Contacts";
+export { default as BasketPage } from "./Basket";
+export { default as AboutUsPage } from "./AboutUs";
+export { default as AllProductsPage } from "./AllProducts";
+export { default as DetailsPage } from "./ProductDetails";
+export { default as ReturnPage } from "./Return";
+export { default as GarantPage } from "./Garant";
+export { default as BlogPage } from "./Blog/blog";
+export { default as CatalogPage } from './Catalog'
